@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un repositorio del modulo 2 del PreCourse Henry
+Este es una prueba de crear un repositiorio y clonarlo de forma local
